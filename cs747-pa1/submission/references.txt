@@ -1,0 +1,5 @@
+Sampling from beta: https://numpy.org/doc/stable/reference/random/generated/numpy.random.beta.html
+Argparse :https://docs.python.org/3/library/argparse.html#:~:text=The%20argparse%20module%20makes%20it,argv%20.
+Random Numpy: https://numpy.org/doc/1.16/reference/routines.random.html
+Slides : https://drive.google.com/file/d/1iAQC4mW0itfrfxPPg_0by64Lx1tk-LI4/view
+Slides : https://drive.google.com/file/d/1aUDawl1ppDCg3dn3cMYCxcQ4uQ7qscRv/view

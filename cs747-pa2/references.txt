@@ -1,0 +1,5 @@
+Pulp documentation : https://coin-or.github.io/pulp/
+Solving linear equations : https://numpy.org/doc/stable/reference/generated/numpy.linalg.solve.html
+Random values in python : https://www.studytonight.com/post/creating-random-valuedarrays-in-numpy
+Comparing 2 arrays : https://numpy.org/doc/stable/reference/generated/numpy.all.html
+Accessing variables in PULP : https://or.stackexchange.com/questions/742/how-do-i-access-the-value-of-a-variable-in-pulp

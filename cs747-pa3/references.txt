@@ -1,0 +1,3 @@
+Getting all references of maximum :https://stackoverflow.com/questions/17568612/how-to-make-numpy-argmax-return-all-occurrences-of-the-maximum
+Sutton and Barto 2018, Chapter 6.
+Class lecture notes.

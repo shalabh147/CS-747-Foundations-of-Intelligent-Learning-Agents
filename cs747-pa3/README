@@ -1,0 +1,16 @@
+Commandline arguments taken by the script :
+--algo : the algorithm to run, one of ’sarsa’, ’expected_sarsa’ and ’q-learning’.
+--actions : Number of actions that can be taken : 4 normally, 8 when kings moves.
+--rows : 10
+--columns : 7
+--steps : maximum number of time steps to be run.
+--allthree : set to 1 when want a plot comparison of all three algorithms. Need to set actions = 4 and stochasticity = 0. set to 0 otherwise.
+--stochasticity : set to 1 when want stochasticity. Need to set algo = sarsa and actions = 8 in thiscase. set to 0 otherwise. Example run given below.
+
+Example run:
+$ python agents.py --algo sarsa --actions 4 --rows 10 --columns 7 --steps 8000 --allthree 0 --stochastic 0
+
+To plot variations between the Non stochastic 4 moves, stochastic 8 moves and non stochastic 8 moves, you will need to uncomment the commented portion at the end of agents.py.
+
+If need to change wind vector, change in environment.py
+If need to change rows and columns, give it as argument to agents.py and change in environment.py but remember to change start and end state also in both files.
